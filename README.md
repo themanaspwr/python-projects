@@ -13,6 +13,3 @@ Link -> https://github.com/themanaspwr/ats_resume_checker-
 
 4. Temperature Analysis Dashboard
 Link -> https://github.com/themanaspwr/Temperature-Analysis-Dashboard
-
-5. CLoudBox
-Link -> https://github.com/themanaspwr/cloud-box
